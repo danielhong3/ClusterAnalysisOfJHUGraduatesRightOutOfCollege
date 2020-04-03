@@ -17,5 +17,7 @@ From this final result, we can tell that: </br>
 -Cluster 2 was centered around Clinical Investigation, and this cluster was centered around N/A. Indicating that departments that fall around this cluser do not have sufficient data surrounding them to indicate much about this students right after college. </br>
 -Cluster 3 was centered around Biochemistry, Cellular, and this cluster favored Academia. Unfortunately, this cluser also favored N/A fairly heavily, indicating that departments centered around this cluser may also not have sufficient data to say much about thier students after college. </br>
 
+The final group of clusters can be visualized below (Cluser 1 is yellow, 2 is blue, and 3 is green)
+![Alt Text](https://github.com/danielhong3/ClusterAnalysisOfJHUGraduatesRightOutOfCollege/blob/master/ClusterFinal2.JPG)
 #References:
 https://provost.jhu.edu/wp-content/uploads/sites/4/2019/02/Career-Outcome-ADA-Tables-Final.pdf
